@@ -1,15 +1,15 @@
 {
-    "name": "pagekit/theme-one",
+    "name": "bm/theme-bm",
     "type": "pagekit-theme",
     "version": "1.0.0",
-    "title": "One",
-    "description": "Pagekit's default theme.",
+    "title": "BM Theme",
+    "description": "Boris' Theme",
     "license": "MIT",
     "authors": [
         {
-            "name": "Pagekit",
-            "email": "info@pagekit.com",
-            "homepage": "http://pagekit.com"
+            "name": "Boris Meier",
+            "email": "me@borismeier.ch",
+            "homepage": "http://www.borismeier.ch"
         }
     ],
     "extra": {
