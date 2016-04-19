@@ -1,3 +1,3 @@
 # One Theme
 
-Pagekit's default theme.
+Boris' Template
